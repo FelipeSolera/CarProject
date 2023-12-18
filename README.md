@@ -13,4 +13,3 @@ Exibição dos resultados, incluindo a estatística t, o valor crítico (para um
 Os resultados indicam se há ou não uma diferença estatisticamente significativa nos preços médios entre carros Ford e Chevrolet no conjunto de dados fornecido.
 
 Este código pode ser útil para analisar e comparar preços de carros de diferentes marcas em conjuntos de dados semelhantes. 
-## Graficos: https://drive.google.com/drive/folders/1gpINOM2OLYPKvlWY3IPeAzE1XpBXfriN?usp=drive_link
